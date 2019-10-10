@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "World of Warcraft",
+        "price" : "49.99",
+        "description" : "MMORPG"
+    },
+    {
+        "name" : "Diablo III",
+        "price" : "29.99",
+        "description" : "genre-defining action-RPG"
+    },
+    {
+        "name" : "Heroes of the Storm",
+        "price" : "19.99",
+        "description" : "raucous MOBA starring your favorite Blizzard characters"
+    },
+    {
+        "name" : "Starcraft II",
+        "price" : "59.99",
+        "description" : "military science fiction media franchise"
+    }
+]
